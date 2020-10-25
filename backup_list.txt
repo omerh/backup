@@ -1,0 +1,9 @@
+/Users/omer/.aws
+/Users/omer/.gitconfig
+/Users/omer/.kube
+/Users/omer/.npmrc
+/Users/omer/.ssh
+/Users/omer/.zshrc
+/Users/omer/.vimrc
+/Users/omer/Downloads 
+/Users/omer/work
